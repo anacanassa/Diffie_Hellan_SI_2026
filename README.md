@@ -1,4 +1,4 @@
-# Diffie_Hellan_SI_2026
+# Diffie Hellman SI 2026
 
 Mensagem do cliente
 
@@ -6,13 +6,15 @@ Mensagem do cliente
 
 Mensagem server
 
-<img width="1360" height="951" alt="ServerVision" src="https://github.com/user-attachments/assets/3676616e-daf4-4382-8d90-f9cc6a6350fb" />
+<img width="1349" height="916" alt="ServerVision (1)" src="https://github.com/user-attachments/assets/b9f337cb-872e-4c58-a5c6-d3e9e6ee5ea2" />
+
 
 Capturas Wireshark 
 
 N, G, R1:
 
 <img width="1519" height="801" alt="N_G_R1" src="https://github.com/user-attachments/assets/a37e8b33-77bb-4e88-9bb6-67906813b838" />
+
 
 R2:
 
@@ -22,6 +24,7 @@ R2:
 Mensagem criptografada Client:
 
 <img width="1494" height="644" alt="ClientMsg" src="https://github.com/user-attachments/assets/34d474b7-1043-43eb-82bd-1dc55363383f" />
+
 
 
 Mensagem criptografada Server:
