@@ -2,6 +2,10 @@
 
 # TCP Client/Server com Diffie-Hellman e Cifra de César
 
+# Demonstração de uso - vídeo
+
+https://youtu.be/Xvy-lLhzV00
+
 ## Descrição
 
 Este projeto implementa uma comunicação cliente-servidor utilizando sockets TCP em Python. O objetivo é demonstrar conceitos básicos de criptografia, incluindo:
